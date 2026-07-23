@@ -1,1 +1,10 @@
-format-text-larger.svg
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" version="1.1" viewBox="0 0 22 22">
+ <defs>
+  <style id="current-color-scheme" type="text/css">
+   .ColorScheme-Text { color:#444444; }
+  </style>
+ </defs>
+ <g transform="translate(2 2)">
+  <path fill-rule="evenodd" class="ColorScheme-Text" style="fill:currentColor" d="M2.25 0C1.004 0 0 1.004 0 2.25V15.75C0 16.997 1.004 18 2.25 18H15.75C16.997 18 18 16.997 18 15.75V2.25C18 1.004 16.997 0 15.75 0ZM7.912 3.065L2.987 14.935H5.392L6.389 12.396H11.611L12.608 14.935H15.128L10.088 3.065H7.912ZM9 6.018L10.775 10.329H7.225L9 6.018Z"/>
+ </g>
+</svg>
